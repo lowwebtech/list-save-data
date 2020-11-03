@@ -6,43 +6,37 @@ The manufacture of the various devices that form the internet's eco-system (from
 
 Reducing the amount of data and the use of the Internet is one way of limiting the significant growth of digital pollution. About 55% of the electricity is consumed when used by devices, antennas or data centers.
 
-This page references resources available to reduce the energy consumption of our devices, especially when using the Internet.
+This page references resources available to reduce the bandwidth and/or energy consumption of our devices, especially when using the Internet.
 
 
 Feel free to PR or send me an email ( vico @@@ lowweb.tech ) for any modifications or suggestions.
 
 
 
-## Desktop
-
-## Extensions
-
-### Ad blocker
-
-- uBlock Origin https://github.com/gorhill/uBlock ( [Firefox](https://addons.mozilla.org/fr/firefox/addon/ublock-origin/) / [Chromium](https://chrome.google.com/webstore/detail/ublock-origin/cjpalhdlnbpafiamejdnhcphjbkeiagm) )
-- Ghostery https://www.ghostery.com/ ( [Firefox](https://addons.mozilla.org/fr/firefox/addon/ghostery/) / [Chromium](https://chrome.google.com/webstore/detail/ghostery-%E2%80%93-privacy-ad-blo/mlomiejdfkolichcflejclcbmpeaniij) )
-
-### Reduce content and/or data
-
-- Minimal https://minimal.aupya.org/ ( [Firefox](https://addons.mozilla.org/fr/firefox/addon/minimal-internet-experience/) / [Chromium](https://chrome.google.com/webstore/detail/minimal/ekcdobhfchooihahjgcalnhmppadiomh) )
-- Low https://github.com/lowwebtech/low-web-extension ( [Firefox](https://addons.mozilla.org/fr/firefox/addon/low-web-extension/) / [Chromium](https://chrome.google.com/webstore/detail/low-web-extension/jllfpicflcigpegdmejghjhaehdiabfj) )
-- Bare blocker https://bare.eco/projects/bare-blocker/ ( [Firefox](https://addons.mozilla.org/fr/firefox/addon/bare-blocker/) / [Chromium](https://chrome.google.com/webstore/detail/bare-blocker/aleacnehgamlcjmcpmghlgfljcgjeclk) )
-
-### Analyzis
-
-- Carbonalyser https://theshiftproject.org/en/carbonalyser-browser-extension/ ( [Firefox](https://addons.mozilla.org/fr/firefox/addon/carbonalyser/) )
-- GreenIT-Analysis ( [Firefox](https://addons.mozilla.org/fr/firefox/addon/greenit-analysis/) / [Chromium](https://chrome.google.com/webstore/detail/greenit-analysis/mofbfhffeklkbebfclfaiifefjflcpad) )
-
 ## Browsers
 
 - Firefox https://www.mozilla.org/fr/firefox/
 - Brave https://brave.com/
 
+## Extensions
+
+### Ad blocker
+- uBlock Origin https://github.com/gorhill/uBlock ( [Firefox](https://addons.mozilla.org/firefox/addon/ublock-origin/) / [Chromium](https://chrome.google.com/webstore/detail/ublock-origin/cjpalhdlnbpafiamejdnhcphjbkeiagm) )
+- Ghostery https://www.ghostery.com/ ( [Firefox](https://addons.mozilla.org/firefox/addon/ghostery/) / [Chromium](https://chrome.google.com/webstore/detail/ghostery-%E2%80%93-privacy-ad-blo/mlomiejdfkolichcflejclcbmpeaniij) )
+
+### Reduce content and/or data
+- Minimal https://minimal.aupya.org/ ( [Firefox](https://addons.mozilla.org/firefox/addon/minimal-internet-experience/) / [Chromium](https://chrome.google.com/webstore/detail/minimal/ekcdobhfchooihahjgcalnhmppadiomh) )
+- Low https://github.com/lowwebtech/low-web-extension ( [Firefox](https://addons.mozilla.org/firefox/addon/low-web-extension/) / [Chromium](https://chrome.google.com/webstore/detail/low-web-extension/jllfpicflcigpegdmejghjhaehdiabfj) )
+- Bare blocker https://bare.eco/projects/bare-blocker/ ( [Firefox](https://addons.mozilla.org/firefox/addon/bare-blocker/) / [Chromium](https://chrome.google.com/webstore/detail/bare-blocker/aleacnehgamlcjmcpmghlgfljcgjeclk) )
+
+### Analyzis
+- Carbonalyser https://theshiftproject.org/en/carbonalyser-browser-extension/ ( [Firefox](https://addons.mozilla.org/firefox/addon/carbonalyser/) )
+- GreenIT-Analysis ( [Firefox](https://addons.mozilla.org/firefox/addon/greenit-analysis/) / [Chromium](https://chrome.google.com/webstore/detail/greenit-analysis/mofbfhffeklkbebfclfaiifefjflcpad) )
+
 
 ## Mobile
 
 ### General advices
-
 - enable low power mode
 - disable background app refresh
 - enable data saver mode
@@ -53,7 +47,6 @@ Feel free to PR or send me an email ( vico @@@ lowweb.tech ) for any modificatio
 - buy a protective shell and a screen protection
 
 ### Android
-
 - Enable data saver mode https://support.google.com/android/answer/9458407?hl=en
 - Restrict app background data
 - Update apps over Wi-Fi only
@@ -66,19 +59,29 @@ Feel free to PR or send me an email ( vico @@@ lowweb.tech ) for any modificatio
 
 ## Settings pages
 
-Some websites offer options to reduce energy and data consumption like disable autoplay, reduce quality. 
+Some websites or apps offer options to reduce energy and data consumption like disabling autoplay, reducing quality. 
 
 ### Netflix 
 - https://www.netflix.com/HdToggle
 
-### Twitter
-- https://twitter.com/settings/data
-- https://lifehacker.com/how-to-use-twitters-new-data-saver-feature-on-your-phon-1829523886 (iOS & Android)
+### Disney+
+- https://help.disneyplus.com/csp?id=csp_article_content&sys_kb_id=d8d88305db6058502e27eadc139619a7
+
+### Amazon Prime
+
+### Youtube
 
 ### Facebook
 - https://www.facebook.com/settings?tab=videos
 Video default quality : SD only
 auto-play videos : off (the first seconds of the videos are still preloaded but not played)
+
+### Hulu
+- link for setting quality video ?
+
+### Twitter
+- https://twitter.com/settings/data
+- https://lifehacker.com/how-to-use-twitters-new-data-saver-feature-on-your-phon-1829523886 (iOS & Android)
 
 ### Instagram
 - https://help.instagram.com/379494505495970 (iOS & Android)
@@ -101,57 +104,3 @@ Autoplay media : off
 
 
 
-
-
-## Notifications & Privacy
-
-### Youtube
-- https://www.youtube.com/account_notifications
-
-### Netflix
-- https://www.netflix.com/EmailPreferences
-- https://www.netflix.com/MarketingCommunications
-
-### Twitter
-- https://twitter.com/settings/notifications
-
-### Facebook
-- https://www.facebook.com/settings?tab=privacy
-- https://www.facebook.com/settings?tab=location
-- https://www.facebook.com/settings?tab=notifications
-
-### Instagram
-- https://www.instagram.com/emails/settings/
-- https://www.instagram.com/accounts/privacy_and_security/
-
-### Pinterest
-- https://www.pinterest.fr/settings/privacy/
-- https://www.pinterest.fr/settings/notifications
-options app mobile
-
-### Reddit
-- https://www.reddit.com/settings/privacy
-- https://www.reddit.com/settings/notifications
-
-### Spotify
-- https://www.spotify.com/fr/account/notifications/
-- https://www.spotify.com/fr/account/privacy/
-- app : https://support.spotify.com/is/using_spotify/system_settings/high-quality-streaming/
-
-### Vimeo
-- https://vimeo.com/settings/notifications
-
-### Hulu
-- link for setting quality video ?
-
-### Amazon Prime Video
-
-### Apple TV+
-
-### Dailymotion
-- https://www.dailymotion.com/settings/notifications
-
-### Linkedin
-- https://www.linkedin.com/psettings/messages
-- https://www.linkedin.com/psettings/advertising
-- https://www.linkedin.com/psettings/privacy
